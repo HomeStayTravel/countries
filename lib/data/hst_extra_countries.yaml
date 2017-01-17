@@ -457,8 +457,8 @@ XE:
     {{region}}
     {{postalcode}}
     {{country}}
-  alpha2: XS
-  alpha3: XSC
+  alpha2: XE
+  alpha3: XEC
   country_code: '44'
   currency: GBP
   international_prefix: '00'
@@ -467,7 +467,7 @@ XE:
   longitude: 3 18 W
   name: England
   names:
-  - Scotland
+  - England
   translations:
     en: England
   national_destination_code_lengths:
