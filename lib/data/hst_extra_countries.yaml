@@ -711,3 +711,43 @@ TZ:
   - sw
   - en
   nationality: Tanzanian
+XK:
+  continent: Europe
+  address_format: ! '{{recipient}}
+
+    {{street}}
+
+    {{city}}
+
+    {{region}}
+
+    {{postalcode}}
+
+    {{country}}'
+  alpha2: XK
+  alpha3: XKR
+  country_code: '83'
+  currency: EUR
+  international_prefix: '00'
+  ioc: XKR
+  latitude: 42 40 N
+  longitude: 21 10 W
+  name: Kosovo
+  names:
+  - Kosovo
+  translations:
+    en: Kosovo
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 10
+  - 11
+  national_prefix: '0'
+  number: '383'
+  region: Europe
+  subregion: Eastern Europe
+  un_locode:
+  languages:
+  - en
+  nationality: Kosovan
+  eu_member: true
