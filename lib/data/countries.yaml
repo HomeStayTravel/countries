@@ -5189,7 +5189,7 @@ LT:
   alpha2: LT
   alpha3: LTU
   country_code: '370'
-  currency: LTL
+  currency: EUR
   international_prefix: '00'
   ioc: LTU
   latitude: 56 00 N
@@ -5274,7 +5274,7 @@ LV:
   alpha2: LV
   alpha3: LVA
   country_code: '371'
-  currency: LVL
+  currency: EUR
   international_prefix: '00'
   ioc: LAT
   latitude: 57 00 N
